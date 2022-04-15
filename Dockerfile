@@ -1,4 +1,4 @@
-FROM php:7.3-apache
+FROM php:7.4.28-apache-bullseye
 RUN docker-php-ext-install mysqli
 
 ARG VERSION=12.38
