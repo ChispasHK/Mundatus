@@ -49,7 +49,7 @@ docker-compose up -d
 The app should be running on port 80.
 
 ### Easy Install Script
-The installation script is a shell script that only works with the Debian/Ubuntu family, with which we can automate the installation of mundatus. 
+The installation script is a shell script that **only works with the Debian/Ubuntu family**, with which we can automate the installation of mundatus. 
 
 The programs that install the script:
 * Apache
@@ -67,7 +67,7 @@ Run the shell script with root permissions
 sudo ./install.sh
 ```
 
-### Manual Installation
+### Manual Installation (Only works with the Debian/Ubuntu family)
 
 Install Apache
 ```
