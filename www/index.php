@@ -29,7 +29,7 @@
     <nav class="navbar navbar-dark bg-dark">
       <div class="container">
         <a class="navbar-brand mb-0 h1 Montserrat" href=" ">Mundatus</a>
-        <a class="navbar-brand" href="#"><i class="bi bi-github"></i> </a>
+        <a class="navbar-brand" href="https://github.com/ChispasHK/Mundatus"><i class="bi bi-github"></i> </a>
       </div>
     </nav>
 
