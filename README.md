@@ -25,17 +25,28 @@ cd Mundatus/
 
 Before deploying any services you have to create and configure the `file/` directory.
 
-Create directory
+### Debian/Ubuntu family
+#### Create directory
 ```
-mkdir www/file/
+mkdir file/
 ```
-Change directory owner
+#### Change directory owner
 ```
-chown www-data:www-data www/file/
+chown www-data:www-data file/
 ```
-Change directory permissions
+#### Change directory permissions
 ```
-chmod 766 www/file/
+chmod 766 file/
+```
+
+### Other Linux distributions
+#### Create directory
+```
+mkdir file/
+```
+#### Change directory permissions
+```
+chmod 777 file/
 ```
 
 ### Containerized Installation
