@@ -1,0 +1,101 @@
+body{
+    background-color: #fafafa !important;
+    font-family: 'Open Sans' !important;
+}
+
+.navbar-dark.bg-dark{
+    color: black !important;
+    background-color: black !important;
+}
+
+.Montserrat {
+    font-family: 'Montserrat' !important;
+    font-weight: bold;
+}
+
+.footer.mt-auto .text-center  {
+    font-weight: 600;
+    width: 100%;
+    padding: 2em !important;
+}
+
+@media (min-height: 749px) {
+    .footer.mt-auto .text-center  {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+    }
+}
+
+.footer.mt-auto .text-center a {
+    color: black;
+    text-decoration: none;
+}
+
+.info-text{
+    font-weight: 600;
+    padding: 2.7em 0 0 0;
+}
+
+.info-text h1 {
+    padding: 0 0 0.3em 0 ;
+    font-family: 'Montserrat' !important;
+    font-weight: bold;
+}
+
+.info-text p {
+    padding: 0 3em ;
+}
+
+.upload-container input.file {
+    outline: 5px dashed #ebebeb;
+    background-size: 3px 1px;
+    outline-offset: -10px;
+    border-radius: 15px;
+}
+
+input.btn.btn-dark{
+    background-color: black !important;
+    border-radius: 5px;
+}
+
+.box-info{
+    background-color: rgb(232, 244, 253) !important;
+    font-family: 'Montserrat' !important;
+    margin: auto;
+    border-radius: 5px;
+}
+
+@media (max-width: 1023px) {
+    .upload-container input.file {
+        padding: 100px 100px;
+        margin: auto ;
+        width: 90% !important;
+    }
+    input.btn.btn-dark{
+        padding: auto;
+        margin: 20px 0 ;
+        width: 90% !important;
+    }
+    .box-info{
+        width: 90% !important;
+        padding: 10px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .upload-container input.file {
+        padding: 100px 100px;
+        margin: 18px auto 10px auto;
+        width: 38% !important;
+    }
+    input.btn.btn-dark{
+        padding: auto;
+        margin: 20px 0 ;
+        width: 38% !important;
+    }
+    .box-info{
+        width: 38% !important;
+        padding: 1em;
+    }
+}
