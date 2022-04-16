@@ -28,25 +28,25 @@ Before deploying any services you have to create and configure the `file/` direc
 #### Debian/Ubuntu family
 Create directory
 ```
-mkdir file/
+mkdir www/file/
 ```
 Change directory owner
 ```
-chown www-data:www-data file/
+chown www-data:www-data www/file/
 ```
 Change directory permissions
 ```
-chmod 766 file/
+chmod 766 www/file/
 ```
 
 #### Other Linux distributions
 Create directory
 ```
-mkdir file/
+mkdir www/file/
 ```
 Change directory permissions
 ```
-chmod 777 file/
+chmod 777 www/file/
 ```
 
 ### Containerized Installation
