@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://github.com/ChispasHK/Mundatus" rel="noopener">
+  <a href="https://mundatus.cybernotrum.com/" rel="noopener">
  <img src="/README_img/logo-github.png" width="680"></a>
 </p>
 
-<a href="https://github.com/ChispasHK/Mundatus" style="color:#000"><h3 align="center">Mundatus</h3></a>
+<a href="https://mundatus.cybernotrum.com/" style="color:#000"><h3 align="center">Mundatus</h3></a>
 
 ---
 
-[Mundatus](https://github.com/ChispasHK/Mundatus) is a website developed by [Cyber Notrum](https://www.cybernotrum.com/), with which you can delete all the metadata of a file simple, fast and secure.
+[Mundatus](https://mundatus.cybernotrum.com/) is a website developed by [Cyber Notrum](https://www.cybernotrum.com/), with which you can delete all the metadata of a file simple, fast and secure.
 
 Mundatus uses the [exiftoll](https://exiftool.org/) program developed by Phil Harvey is used in the back-end.
 
