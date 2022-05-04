@@ -16,6 +16,22 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open%20Sans">
     
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Mundatus">
+    <meta property="og:url" content="https://mundatus.cybernotrum.com/">
+    <meta property="og:image" content="https://github.com/ChispasHK/Mundatus/blob/main/README_img/logo-github.png">
+    <meta property="og:description" content="Delete all the metadata of a file simple, fast and secure.">
+
+    <!-- Open Graph Meta Tags Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Mundatus">
+    <meta property="twitter:domain" content="mundatus.cybernotrum.com">
+    <meta name="twitter:site" content="@cybernotrum">
+    <meta property="twitter:url" content="https://mundatus.cybernotrum.com/">
+    <meta name="twitter:description" content="Delete all the metadata of a file simple, fast and secure.">
+    <meta name="twitter:image" content="https://github.com/ChispasHK/Mundatus/blob/main/README_img/logo-github.png">
+    
     <!-- favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="512x512" href="/favicon/android-chrome-512x512.png">
