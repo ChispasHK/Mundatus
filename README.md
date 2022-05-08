@@ -9,7 +9,7 @@
 
 [Mundatus](https://mundatus.cybernotrum.com/) is a website developed by [Cyber Notrum](https://www.cybernotrum.com/), with which you can delete all the metadata of a file simple, fast and secure.
 
-Mundatus uses the [exiftoll](https://exiftool.org/) program developed by Phil Harvey is used in the back-end.
+Mundatus uses the [exiftool](https://exiftool.org/) program developed by Phil Harvey is used in the back-end.
 
 ## Installation
 The installation has to be done on a UNIX system and there are three options: 
