@@ -20,7 +20,7 @@
     <meta property="og:type" content="website">
     <meta property="og:title" content="Mundatus">
     <meta property="og:url" content="https://mundatus.cybernotrum.com/">
-    <meta property="og:image" content="https://github.com/ChispasHK/Mundatus/blob/main/README_img/logo-github.png">
+    <meta property="og:image" content="https://raw.githubusercontent.com/ChispasHK/Mundatus/main/README_img/logo-github.png">
     <meta property="og:description" content="Delete all the metadata of a file simple, fast and secure.">
 
     <!-- Open Graph Meta Tags Twitter -->
@@ -30,7 +30,7 @@
     <meta name="twitter:site" content="@cybernotrum">
     <meta property="twitter:url" content="https://mundatus.cybernotrum.com/">
     <meta name="twitter:description" content="Delete all the metadata of a file simple, fast and secure.">
-    <meta name="twitter:image" content="https://github.com/ChispasHK/Mundatus/blob/main/README_img/logo-github.png">
+    <meta name="twitter:image" content="https://raw.githubusercontent.com/ChispasHK/Mundatus/main/README_img/logo-github.png">
     
     <!-- favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
